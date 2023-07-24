@@ -1,3 +1,4 @@
+//! DP Knapsack with walkback optimization
 use crate::helpers::binaryrangesearch::range_search_binary;
 use crate::helpers::subsetsum::backward_subset_sum_indices;
 use crate::types::Item;

@@ -1,12 +1,13 @@
 [package]
 name = "knaptime"
 description = "Solve the knapsack problem and its variants"
-version = "0.0.1"
+version = "0.0.4"
 edition = "2021"
 readme = "README.md"
 authors = ["Patrick O'Neill"]
 license = "MIT"
 repository = "https://github.com/carbocarde/knaptime/"
+documentation = "https://docs.rs/knaptime/latest/knaptime/"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

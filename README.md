@@ -5,7 +5,7 @@ It was constructed due to the lack of easily-accessible implementations of knaps
 Language bindings are planned to allow these functions to be used in your language of choice.
 
 # Documentation
-View all the variants using `cargo doc --open`
+View all the variants and other docs [here (link)](https://docs.rs/knaptime/latest/knaptime/).
 
 # Testing
 Ideally we would have a comprehensive test suite, but this is just a side project for me ;).

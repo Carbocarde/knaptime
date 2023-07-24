@@ -1,3 +1,4 @@
+//! Recursive Knapsack with memoization
 use crate::types::Item;
 use std::collections::HashMap;
 

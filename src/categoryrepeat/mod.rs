@@ -1,4 +1,4 @@
-//! # Category Knapsack with threshold
+//! # Category Knapsack with repetition
 //! A variant of the knapsack problem.
 //!
 //! Given a list of items in categories, pick at most one item from each category.

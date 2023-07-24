@@ -1,3 +1,4 @@
+//! DP Knapsack
 use crate::types::Item;
 use std::cmp::max;
 

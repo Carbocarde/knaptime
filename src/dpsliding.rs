@@ -1,3 +1,4 @@
+//! DP Knapsack with sliding window optimization
 use crate::types::Item;
 use std::cmp::max;
 

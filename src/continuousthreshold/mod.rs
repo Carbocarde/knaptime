@@ -1,4 +1,4 @@
-//! # Continuous Category Knapsack
+//! # Continuous Threshold Knapsack
 //! A variant of the knapsack problem.
 //!
 //! Normally you need to have fixed precision in order to calculate the optimal solution. Floating point numbers have too much precision.
